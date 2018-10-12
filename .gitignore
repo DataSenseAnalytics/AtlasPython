@@ -1,0 +1,2 @@
+# Exclude non-tarball miniconda directories
+/*miniconda2*/
